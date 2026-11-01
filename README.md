@@ -23,4 +23,4 @@ Superstore Sales (Kaggle), 9,800 rows
 ## Dashboard
 
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
